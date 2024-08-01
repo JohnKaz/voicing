@@ -1,4 +1,4 @@
-# euphonics
+# voicing
 
 ## Description
 This function modifies all sentences in a CoNLL-U formatted file containing voicing annotation in their 10th (MISC) collumn.
